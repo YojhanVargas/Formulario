@@ -186,64 +186,10 @@ YOJHAN VARGAS
 
 👤 **Author1**
 
-- GitHub: [@alyconr](https://github.com/YojhanVargas)
+- GitHub: [@YojhanVargas](https://github.com/YojhanVargas)
 
 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-
-
-- [ ] **[Personalized Recommendations]**
-- [ ] **[Advanced Search Filters]**
-- [ ] **[Notifications and Reminders]**
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTRIBUTING -->
-
-## 🤝 Contributing <a name="contributing"></a>
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](https://github.com/alyconr/TV-AMAZE-APP.git/issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- SUPPORT -->
-
-## ⭐️ Show your support <a name="support"></a>
-
-> Write a message to encourage readers to support your project
-
-If you like this project please give  one start.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGEMENTS -->
-
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-I would like to thank  God for giving me the strength to carry out this project.
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
-
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
-
-## 📝 License <a name="license"></a>
-
-This project is [MIT](LICENSE.md) licensed.
-
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
