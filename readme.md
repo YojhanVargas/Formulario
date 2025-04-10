@@ -39,7 +39,7 @@
 
 # 📖 [Linters ] <a name="about-project"></a>
 
-  **[Linters app]**  Formulario linter es una pagina web dedicada a recopilar informaxion de los usuarios, este proyecto esta desplegado en azure, esta construido con html, css, javascript, webpack, git.
+  **[Linters ]**  Formulario linter, es una pagina web dedicada a recopilar informacion de los usuarios, este proyecto esta desplegado en azure, esta construido con html, css, javascript, webpack, git.
  
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -148,7 +148,7 @@ Webpack dev server
 
 ### Usage
 
-Para ejecutar localmente ejevute el siguiente comando
+Para ejecutar localmente ejecute el siguiente comando
 ## Development mode
 ```sh
     npm run build-dev
